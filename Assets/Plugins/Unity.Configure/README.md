@@ -26,7 +26,6 @@ static void RuntimeInitializeOnLoadMethod()
         {
             ConfigurationGUI.IsEnabled = true;
             ConfigurationGUI.Initialize();
-            ConfigurationGUI.IsShow = true;
         }
         //初始化，在调试界面初始化之后调用，加载用户定制配置
         Configuration.Initialize();
