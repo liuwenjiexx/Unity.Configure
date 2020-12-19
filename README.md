@@ -15,5 +15,14 @@
 
 ## 预览
 
+```
+[Configurable]
+public static int int1 = 1;
+    
+[Configurable]
+[UnityEngine.Configure.Range(0, 1f)]
+public static float range1 = 0.5f;
+```
+
 <img src="Assets/Plugins/Unity.Configure/doc/preview.PNG"  />
 
