@@ -1,0 +1,12 @@
+.vs/
+/Assets/Plugins/gen/
+/Library/
+/Temp/
+/*.sln
+/*.csproj
+gen/
+/ProjectSettings/ProjectVersion.txt
+/ProjectSettings/
+.vsconfig
+/Logs/
+/UserSettings/

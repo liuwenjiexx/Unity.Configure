@@ -1,0 +1,17 @@
+{
+  "name": "unity.configure",
+  "displayName": "Configuration",
+  "version": "0.0.1",
+  "unity": "2019.1",
+  "description": "Configuration",
+  "keywords": [
+    "Config",
+    "Configure",
+    "Configuration"
+  ],
+  "category": "Unity",
+  "dependencies": {
+    "system.stringformat": "0.0.1"
+  },
+  "repoPackagePath": "../UnityPackages"
+}

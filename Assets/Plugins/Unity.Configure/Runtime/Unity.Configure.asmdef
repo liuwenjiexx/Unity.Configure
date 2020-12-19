@@ -1,0 +1,15 @@
+{
+    "name": "Unity.Configure",
+    "references": [
+        "GUID:b8306774212333b4fb94b9f30efac8d0"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
